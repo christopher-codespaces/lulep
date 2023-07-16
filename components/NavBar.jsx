@@ -20,7 +20,7 @@ const NavBar =()=>{
               <div className="flex items-center justify-between py-3 md:py-5 md:block">
                     <Link href="/">
                         <Image
-                            src="https://www.floatui.com/logo.svg"
+                            src="https://www.canterburypilgrimages.com/wp-content/uploads/2021/04/dummy-logo-5b.png"
                             width={120}
                             height={50}
                             alt="Float UI logo"
