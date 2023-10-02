@@ -14,11 +14,12 @@ const Donate = () => {
         <div className="flex h-full items-center justify-center">
           <div className="px-6 text-center text-white md:px-12">
             <h1 className="mt-2 mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl">
-              Empower the Future <br />
+              Empower the Future ,<br />
               Sponsor Our Cause
             </h1>
             <p className="text-xl text-white mb-12">
-              Your support can make a difference in the lives of countless individuals. By becoming a sponsor, you contribute to empowering the next generation and creating positive change in our communities.
+            Your support can make a difference to learners living and schooling in underprivileged communities
+            in South Africa by becoming a sponsor.
             </p>
             <button
               type="button"

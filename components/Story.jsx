@@ -20,7 +20,10 @@ const Story = () => {
               Make a difference with our NGO initiatives
             </p>
             <p className="mt-3 text-gray-600">
-              We are committed to empowering communities and creating a positive impact. Our NGO initiatives focus on addressing social issues, providing support, and improving the lives of those in need. Join us in making a difference today!
+              {`We are committed to empowering schools and communities by creating a positive impact.
+                Our NGO initiatives forcuses on addressing teachers content  and pedagogical gaps so that learners in
+                underpriveldged communities to reach their full potential and get quality education.
+              `}
             </p>
             <a
               href="getinvoled"

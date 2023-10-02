@@ -11,6 +11,14 @@ export {default as FAQ } from "./FAQ.jsx";
 export {default as Donate } from "./Donate.jsx";
 export {default as Teachers } from "./Teachers.jsx";
 export {default as Invest } from "./Invest.jsx";
+export {default as Hero } from "./Hero.jsx";
+export {default as Summary } from "./Summary.jsx";
+export {default as Feature } from "./Feature.jsx";
+export {default as NGO } from "./NGO.jsx";
+
+
+
+
 
 
 

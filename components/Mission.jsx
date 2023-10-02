@@ -30,7 +30,10 @@ const Mission = () => {
             Empowering Teachers, Enriching Lives
           </h1>
           <p className="mt-3">
-            At Lesedi Ukhanyo Light Education Project, we are dedicated to providing quality education and empowering teachers to make a difference in {`learners'`} lives.
+           {`At Lesedi Ukhanyo Light Education Project,we are dedicated to provide quality education and empowering learners
+             to make a difference in learners' lives through inclassroom mentoring support of content and pedagogy in
+              Mathematics ,Languages and Sciences.
+           `}
           </p>
         </div>
         <div className="mt-12">

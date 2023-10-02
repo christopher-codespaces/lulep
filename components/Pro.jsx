@@ -1,43 +1,32 @@
 import React from "react";
-import { FaUserGraduate, FaChalkboardTeacher, FaUtensils, FaSuitcase, FaPlane, FaHandsHelping } from "react-icons/fa";
+import {
+  FaUserGraduate,
+  FaChalkboardTeacher,
+  FaUtensils,
+  FaSuitcase,
+  FaPlane,
+  FaHandsHelping,
+} from "react-icons/fa";
 
 const Pro = () => {
   const programs = [
     {
       icon: <FaUserGraduate className="w-6 h-6" />,
-      title: "Youth Empowerment",
+      title: "Teacher Mentoring",
       description:
-        "Our Youth Empowerment program focuses on empowering young individuals through skills training, mentorship, and career guidance. We provide them with the necessary tools and resources to unlock their full potential and succeed in their chosen paths.",
+        "In our Teacher Mentoring program, we provide guidance to Mathematics, Languages, and Science teachers.",
     },
     {
       icon: <FaChalkboardTeacher className="w-6 h-6" />,
-      title: "Teacher Mentoring",
+      title: "Saturday Classes",
       description:
-        "In our Teacher Mentoring program, we offer support and guidance to teachers in underprivileged schools. We believe that teachers play a crucial role in shaping the future of education, and we provide them with training, resources, and mentoring to enhance their teaching skills and create a positive learning environment for students.",
+        "We offer Saturday classes in Mathematics, Science, and Languages to learners in the schools where we mentor their teachers, providing a synthesis of work covered during the week.",
     },
     {
       icon: <FaUtensils className="w-6 h-6" />,
-      title: "Providing Food to Children",
+      title: "Workshops",
       description:
-        "We are committed to ensuring that no child goes to bed hungry. Through our Providing Food to Children program, we distribute nutritious meals to children in need, enabling them to focus on their education and overall well-being. We believe that access to proper nutrition is essential for their growth and development.",
-    },
-    {
-      icon: <FaSuitcase className="w-6 h-6" />,
-      title: "Exclusive Trips to South Africa",
-      description:
-        "Our Exclusive Trips to South Africa program offers young individuals the opportunity to explore the vibrant culture, diverse landscapes, and rich heritage of South Africa. Through guided tours and immersive experiences, we aim to broaden their horizons, inspire a sense of adventure, and create lifelong memories.",
-    },
-    {
-      icon: <FaPlane className="w-6 h-6" />,
-      title: "International Exchange Programs",
-      description:
-        "Through our International Exchange Programs, we facilitate cross-cultural learning experiences for students. By collaborating with partner organizations worldwide, we provide students with the opportunity to immerse themselves in different cultures, gain global perspectives, and develop lifelong connections. We believe in fostering understanding, empathy, and global citizenship.",
-    },
-    {
-      icon: <FaHandsHelping className="w-6 h-6" />,
-      title: "Community Engagement",
-      description:
-        "Our Community Engagement program aims to actively involve community members in social initiatives. We organize volunteering events, community clean-ups, and awareness campaigns to create a positive impact and foster a sense of belonging. Together, we can make a difference and build a stronger community.",
+        "We offer 4-hour workshops to schools and their teachers on how to manage learner behavior, how to plan effective and engaging lessons that cater to all different levels of learners, and how to check for learners' understanding during the lessons.",
     },
   ];
 
