@@ -42,7 +42,7 @@ const Team = () => {
             <div className="p-6">
               <Image
                 className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
-                src="brain"
+                src={brain}
                 alt="Brain Makombe"
                 loading="lazy"
                 layout="responsive"
