@@ -46,6 +46,8 @@ const Team = () => {
                 alt="Brain Makombe"
                 loading="lazy"
                 layout="responsive"
+                width="289"
+                height="436"
               />
 
               <h1 className="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-neutral-600 lg:text-3xl">Brain Makombe</h1>
