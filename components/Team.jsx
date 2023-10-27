@@ -40,7 +40,7 @@ const Team = () => {
               <div className="mt-4"></div>
             </div>
             <div className="p-6">
-            <img
+            <Image
             src={DIRECTOR}
             alt="Brain Makombe"
             loading="lazy"
