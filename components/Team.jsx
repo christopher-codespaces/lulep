@@ -40,15 +40,14 @@ const Team = () => {
               <div className="mt-4"></div>
             </div>
             <div className="p-6">
-              <Image
-                className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
-                src={DIRECTOR}
-                alt="Brain Makombe"
-                loading="lazy"
-                layout="responsive"
-                width="289"
-                height="436"
-              />
+            <img
+            src={DIRECTOR}
+            alt="Brain Makombe"
+            loading="lazy"
+            layout="responsive"
+            className="object-cover object-center w-289 h-436 mb-8 lg:h-48 md:h-36 rounded-xl"
+            />
+
 
               <h1 className="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-neutral-600 lg:text-3xl">Brain Makombe</h1>
               <h2>Director</h2>
