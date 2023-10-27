@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import bongani from "./assets/bongani.png";
-import brain from "./assets/brain.png";
+import DIRECTOR from "./assets/DIRECTOR.png";
 import christopher from "./assets/christopher.png";
 
 
@@ -42,7 +42,7 @@ const Team = () => {
             <div className="p-6">
               <Image
                 className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
-                src={brain}
+                src={DIRECTOR}
                 alt="Brain Makombe"
                 loading="lazy"
                 layout="responsive"

@@ -24,7 +24,7 @@ const ContactUs=()=>{
                             Partner with Us
                         </h3>
                         <p className="mt-3">
-                            We invite sponsors and schools to connect with us for the Lulep program. Please fill out the form below, and {`we'll be in touch.`}
+                            We invite sponsors and schools to connect with us for the  Lesedi*Ukhanyo*Light Academy  program. Please fill out the form below, and {`we'll be in touch.`}
                         </p>
                     </div>
                     <form

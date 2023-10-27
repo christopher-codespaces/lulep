@@ -6,7 +6,6 @@ const AboutUs = () => {
     <>
         <Story />
         <Team />
-        <Logo/>
         <FAQ/>
     </>
   )

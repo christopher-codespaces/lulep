@@ -11,7 +11,7 @@ const NGO= () => {
                     </h1>
 
                         <p className="mt-8 text-base text-gray-600 sm:text-xl">
-                        {`Addressing a crucial need in education, LULEP was founded to bridge content and pedagogical gaps,
+                        {`Addressing a crucial need in education,  Lesedi*Ukhanyo*Light Academy  was founded to bridge content and pedagogical gaps,
                         empowering teachers to effectively teach Mathematics, Languages, and Sciences.
                         Our mission is to improve learner outcomes and create opportunities for future mathematicians, scientists, doctors, and engineers from marginalized communities.`}                        </p>
 

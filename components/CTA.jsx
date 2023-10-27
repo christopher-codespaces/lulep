@@ -12,11 +12,11 @@ const CTA = () => {
           <h2 className="text-4xl text-gray-800 font-extrabold mx-auto md:text-5xl">
            through {`    `}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-              {`LULEP's`} innovative solutions
+              {` Lesedi*Ukhanyo*Light Academy 's`} innovative solutions
             </span>
           </h2>
           <p className="max-w-2xl mx-auto">
-           {`Unleashing the potential of your learners and teachers by harnessing Lulep's advanced tailor-made
+           {`Unleashing the potential of your learners and teachers by harnessing  Lesedi*Ukhanyo*Light Academy 's advanced tailor-made
               techniques and technology designed to enhance teaching and learning in Mathermatics,Languages and Sciences.`}
           </p>
           <div className="items-center justify-center gap-x-3 space-y-3 sm:flex sm:space-y-0">

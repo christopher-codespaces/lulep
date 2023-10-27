@@ -7,7 +7,7 @@ const Alert =()=>{
                 <div className="flex-1 justify-center flex items-start gap-x-4 sm:items-center">
 
                     <p className="font-medium p-2">
-                        Welcome to LuLep
+                        Welcome to  Lesedi*Ukhanyo*Light Academy 
                     </p>
                 </div>
 
